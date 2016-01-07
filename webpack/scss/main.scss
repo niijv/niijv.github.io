@@ -40,20 +40,13 @@ nav.navbar-fixed-top {
 
 .content-wrapper {
   margin-bottom: 40px;
+  h1 {
+    margin-bottom: 30px;
+  }
 }
 
-.content {
-  margin-top: 30px;
-  margin-bottom: -20px;
-}
-
-.milestone .milestone-date, .blogpost-summary .blogpost-date {
-  margin-bottom: -25px;
-}
-
-.blogpost .blogpost-date {
-  margin-top: -15px;
-  margin-bottom: 30px
+.blogpost-summary h3, .milestone h3 {
+  margin: 0;
 }
 
 h1, h2, h3, h4, h5, h6, .navbar {

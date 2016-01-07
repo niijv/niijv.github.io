@@ -9,7 +9,7 @@
       <div class="blogpost-date">
         {{ blogpost.pub_date.strftime('%b %d, %Y') }}
       </div>
-      <h2><a href="{{ blogpost|url }}">{{ blogpost.title }}</a></h2>
+      <h3><a href="{{ blogpost|url }}">{{ blogpost.title }}</a></h3>
       <div class="blogpost-short">
         <p> {{ blogpost.short }}
           <a class="blogpost-more" href="{{ blogpost|url }}">More…</a>
