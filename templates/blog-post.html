@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+{% from "macros/pagination.html" import render_pagination %}
+{% block title %} {{ this.title }} {% endblock %}
+{% block body %}
+<div class="content blogpost">
+  <h1> {{ this.title }} </h1>
+  <div class="blogpost-date">
+    {{ this.pub_date.strftime('%b %d, %Y') }}
+  </div>
+  <div class="blogpost-body">
+    {{ this.body }}
+  </div>
+</div>
+{% endblock %}

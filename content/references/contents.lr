@@ -1,0 +1,14 @@
+_model: References
+---
+milestones:
+
+#### milestone ####
+title: Some milestone
+----
+start_date: 2014-01-22
+----
+end_date: 2015-12-01
+----
+body: Some text here
+---
+title: Projects and references

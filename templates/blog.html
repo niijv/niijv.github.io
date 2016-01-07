@@ -1,0 +1,24 @@
+{% extends "layout.html" %}
+{% from "macros/pagination.html" import render_pagination %}
+{% block title %} {{ this.title }} {% endblock %}
+{% block body %}
+<h1> {{ this.title }} </h1>
+<div class="content">
+  {% for blogpost in this.pagination.items %}
+  <div class="blogpost-summary">
+      <div class="blogpost-date">
+        {{ blogpost.pub_date.strftime('%b %d, %Y') }}
+      </div>
+      <h2><a href="{{ blogpost|url }}">{{ blogpost.title }}</a></h2>
+      <div class="blogpost-short">
+        <p> {{ blogpost.short }}
+          <a class="blogpost-more" href="{{ blogpost|url }}">More…</a>
+        </p>
+      </div>
+  </div>
+  {% endfor %}
+  {% if this.pagination.pages > 1 %}
+    {{ render_pagination(this.pagination) }}
+  {% endif %}
+</div>
+{% endblock %}

@@ -1,0 +1,7 @@
+<div class="milestone">
+    <div class="milestone-date">
+      {{ this.start_date.year }}{{ (' - ' ~ this.end_date.year) if this.end_date }}
+    </div>
+    <h2>{{ this.title }}</h2>
+    <div class="milestone-text"> {{ this.body }} </div>
+</div>
