@@ -3,12 +3,90 @@ _model: References
 milestones:
 
 #### milestone ####
-title: Some milestone
+title: AVL Deutschland
 ----
-start_date: 2014-01-22
+start_date: 2014-10-1
 ----
-end_date: 2015-12-01
+end_date: 
 ----
-body: Some text here
+body: Junior Software Developer. Application Development. Automotive Industry. Munich.
+#### milestone ####
+title: Master of Science - Software Development and Business Management
+----
+start_date: 2014-7-1
+----
+end_date: 
+----
+body: University of Technology Graz. Graduated with honors.
+#### milestone ####
+title: Evolution of Reddit
+----
+start_date: 2014-4-1
+----
+end_date: 
+----
+body:
+
+From the Front Page of the Internet to a Selfreferential Community?
+
+Results of my master thesis were published in a peer reviewed [paper](http://arxiv.org/abs/1402.1386) that I co-authored. Presented at the [WWW Conference 2014](http://www2014.kr/), Seoul. Published in Proceedings of the 23rd Internat. WWW Conference Companion 2014.
+
+Large scale analysis on the basic structure and development of the social news aggregator and image board [Reddit](http://www.reddit.com/), the attention behaviour of their users and the perception of content.
+#### milestone ####
+title: Erich Prödl Associates
+----
+start_date: 2012-1-1
+----
+end_date: 2014-12-31
+----
+body: Development and deployment of the company's web presence. Continuous extensions of the web app and content management. Freelance.
+#### milestone ####
+title: Bachelor of Science - Computer Science
+----
+start_date: 2012-8-1
+----
+end_date: 
+----
+body: University of Technology Graz
+#### milestone ####
+title: Zotter Schokoladen Manufaktur GmbH
+----
+start_date: 2011-1-1
+----
+end_date: 2014-12-31
+----
+body: Prototyping, design, development and deployment of product configurator visualizations. Consulting and representation in communication with third parties. Continuous extension of products. Freelance.
+#### milestone ####
+title: s IT Solutions AT Spardat GmbH
+----
+start_date: 2011-1-2
+----
+end_date: 2012-12-31
+----
+body: Documentation and reverse engineering of large database systems for re-implementation. Student worker.
+#### milestone ####
+title: Josef Prödl Tischlerei GmbH
+----
+start_date: 2008-1-1
+----
+end_date: 2013-12-31
+----
+body: Various responsibilities in management, administration, production and assembly. Part time.
+#### milestone ####
+title: BG/BRG Gleisdorf
+----
+start_date: 2007-8-1
+----
+end_date: 
+----
+body: English as working language. Graduated with honors.
+#### milestone ####
+title: Certificate in Advanced English
+----
+start_date: 2006-8-1
+----
+end_date: 
+----
+body: Awarded by the University of Cambridge.
 ---
 title: Projects and references

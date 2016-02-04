@@ -5,7 +5,7 @@
 <div class="content blogpost">
   <h1> {{ this.title }} </h1>
   <div class="blogpost-date">
-    {{ this.pub_date.strftime('%b %d, %Y') }}
+    {{ this.pub_date.strftime('%b %d, %Y') if this.pub_date }}
   </div>
   <div class="blogpost-body">
     {{ this.body }}

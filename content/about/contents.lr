@@ -2,16 +2,22 @@ _model: About
 ---
 body:
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   
+###... me
+My name is Elias Zeitfogel and I am, among many other things, interested in computer graphics / vision, social network analysis, machine learning, data science, web development and learning new skills. In my free time I like to do obstacle races and go mountain biking. 
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.   
+ I graduated from the [University of Technology Graz](http://www.tugraz.at) where I studied *Computer Science* and *Software Development and Business Management*. Some of my work there has been published in the paper [Evolution of Reddit: From the Front Page of the Internet to a Self-referential Community?](http://arxiv.org/abs/1402.1386) at the [World Wide Web Conference 2014](http://www2014.kr/) in Seoul, Korea.
 
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.   
+I also do a lot of freelancing, some projects I worked on can be viewed [here](../references). 
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.   
+###... this website
 
-At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur
+After finishing my studies I finally found time to dive into [Flask](http://flask.pocoo.org/), a Python microframework, and the initial version of this website is the result of that endeavour. The website was originally created with [Flask](http://flask.pocoo.org/) (including various extensions) and some [Bootstrap](http://getbootstrap.com/) and was hosted on a free tier of [OpenShift](https://www.openshift.com/). It offers a basic CMS with some simple models for blogs, project references or professional milestones and an admin dashboard. You are free to fork it on [GitHub](https://github.com/niijv/webvita) or use the [version](https://github.com/niijv/webvita-heroku) I prepared for [Heroku](https://heroku.com/). 
+But shortly after that another project by the creator of Flask piqued my interest. Enter [Lektor](https://www.getlektor.com). After contributing to the project myself and watching it get open-sourced and publicly released a few months later with great success I was determined to stick with it. And what better way to do that than using it for your own website.
+
+###Contact me
+
+If you want to contact me or give me feedback, just send message me via [GitHub](https://github.com/niijv) or [LinkedIn](https://www.linkedin.com/pub/elias-zeitfogel/). 
+
 ---
 title: About

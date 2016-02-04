@@ -45,8 +45,15 @@ nav.navbar-fixed-top {
   }
 }
 
-.blogpost-summary h3, .milestone h3 {
+.blogpost-summary h3 {
   margin: 0;
+}
+
+.milestone {
+  margin-top: 30px;
+  h3 {
+    margin-top: 0;
+  }
 }
 
 h1, h2, h3, h4, h5, h6, .navbar {
