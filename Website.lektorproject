@@ -1,6 +1,9 @@
 [project]
 name = EliasZeitfogel
 
+[servers.ghpages]
+target = ghpages+https://niijv/niijv.github.io
+
 [packages]
 lektor-webpack-support = 0.1
 lektor-markdown-highlighter = 0.1
